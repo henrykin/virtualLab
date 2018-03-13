@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Nov 25 18:14:08 CST 2017
+http\://localhost\:8081/nexus/content/groups/public/.lastUpdated=1511604848621
+http\://localhost\:8081/nexus/content/groups/public/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1511604848564
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.wagon\:wagon-file\:jar\:sources\:2.10 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

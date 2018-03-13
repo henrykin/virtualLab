@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 09 16:15:33 CST 2018
+https\://repo.maven.apache.org/maven2/.lastUpdated=1520583333995
+http\://localhost\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient\:jar\:javadoc\:4.3.5 from/to nexus (http\://localhost\:8081/nexus/content/groups/public/)\: Failed to connect to localhost/0\:0\:0\:0\:0\:0\:0\:1\:8081
+@default-nexus-http\://localhost\:8081/nexus/content/groups/public/.lastUpdated=1520583332324

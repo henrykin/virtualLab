@@ -1,0 +1,17 @@
+com/virtual/lab/webchat/HttpSessionConfigurator.class
+com/virtual/lab/controller/ResportDescController.class
+com/virtual/lab/controller/FunctionController.class
+com/virtual/lab/controller/utils/FileUtil.class
+com/virtual/lab/webchat/ChatServer.class
+com/virtual/lab/interceptor/UserLoginInterceptor.class
+com/virtual/lab/controller/ItemCatController.class
+com/virtual/lab/controller/PageController.class
+com/virtual/lab/controller/ItemDescController.class
+com/virtual/lab/controller/LoginController.class
+com/virtual/lab/controller/utils/UploadUtil.class
+com/virtual/lab/controller/RegisterController.class
+com/virtual/lab/controller/ResportController.class
+com/virtual/lab/controller/RoleController.class
+com/virtual/lab/controller/AdminController.class
+com/virtual/lab/controller/ItemController.class
+com/virtual/lab/controller/UserController.class

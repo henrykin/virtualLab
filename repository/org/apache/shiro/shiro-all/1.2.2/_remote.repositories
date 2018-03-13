@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 09 16:14:11 CST 2018
+shiro-all-1.2.2-sources.jar>nexus=
+shiro-all-1.2.2.pom>nexus=
+shiro-all-1.2.2-javadoc.jar>central=
+shiro-all-1.2.2.jar>nexus=

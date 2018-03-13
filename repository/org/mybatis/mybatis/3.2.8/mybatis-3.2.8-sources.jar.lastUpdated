@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 09 10:43:17 CST 2018
+https\://repo.maven.apache.org/maven2/.lastUpdated=1520563397428
+http\://localhost\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.mybatis\:mybatis\:jar\:sources\:3.2.8 from/to nexus (http\://localhost\:8081/nexus/content/groups/public/)\: Connect to localhost\:8081 [localhost/127.0.0.1, localhost/0\:0\:0\:0\:0\:0\:0\:1] failed\: Connection refused
+@default-nexus-http\://localhost\:8081/nexus/content/groups/public/.lastUpdated=1520563396875

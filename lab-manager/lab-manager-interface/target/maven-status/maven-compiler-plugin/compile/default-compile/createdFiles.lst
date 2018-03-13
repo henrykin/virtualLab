@@ -1,0 +1,10 @@
+com/virtual/lab/service/FunctionService.class
+com/virtual/lab/service/ResportDescService.class
+com/virtual/lab/service/RegisterService.class
+com/virtual/lab/service/RoleService.class
+com/virtual/lab/service/ItemDescService.class
+com/virtual/lab/service/ItemCatService.class
+com/virtual/lab/service/UserService.class
+com/virtual/lab/service/ResportService.class
+com/virtual/lab/service/LoginService.class
+com/virtual/lab/service/ItemService.class

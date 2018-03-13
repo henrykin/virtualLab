@@ -1,0 +1,11 @@
+com/virtual/lab/service/impl/ItemCatServiceImpl.class
+com/virtual/lab/realm/LABRealm.class
+com/virtual/lab/service/impl/RegisterServiceImpl.class
+com/virtual/lab/service/impl/RoleServiceImpl.class
+com/virtual/lab/service/impl/ResportDescServiceImpl.class
+com/virtual/lab/service/impl/ItemDescServiceImpl.class
+com/virtual/lab/service/impl/ResportServiceImpl.class
+com/virtual/lab/service/impl/FunctionServiceImpl.class
+com/virtual/lab/service/impl/UserServiceImpl.class
+com/virtual/lab/service/impl/LoginServiceImpl.class
+com/virtual/lab/service/impl/ItemServiceImpl.class

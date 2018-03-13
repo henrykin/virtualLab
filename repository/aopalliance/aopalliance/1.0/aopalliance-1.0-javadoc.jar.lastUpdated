@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 09 16:14:32 CST 2018
+https\://repo.maven.apache.org/maven2/.lastUpdated=1520583272378
+http\://localhost\:8081/nexus/content/groups/public/.error=Could not transfer artifact aopalliance\:aopalliance\:jar\:javadoc\:1.0 from/to nexus (http\://localhost\:8081/nexus/content/groups/public/)\: Failed to connect to localhost/0\:0\:0\:0\:0\:0\:0\:1\:8081
+https\://repo.maven.apache.org/maven2/.error=
+@default-nexus-http\://localhost\:8081/nexus/content/groups/public/.lastUpdated=1520583272204

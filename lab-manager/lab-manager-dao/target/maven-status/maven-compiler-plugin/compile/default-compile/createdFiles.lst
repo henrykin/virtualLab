@@ -1,0 +1,9 @@
+com/virtual/lab/mapper/TbItemCatMapper.class
+com/virtual/lab/mapper/TbResportMapper.class
+com/virtual/lab/mapper/AuthRoleMapper.class
+com/virtual/lab/mapper/RoleFunctionMapper.class
+com/virtual/lab/mapper/AuthFunctionMapper.class
+com/virtual/lab/mapper/TbResportDescMapper.class
+com/virtual/lab/mapper/TbUserMapper.class
+com/virtual/lab/mapper/TbItemDescMapper.class
+com/virtual/lab/mapper/TbItemMapper.class

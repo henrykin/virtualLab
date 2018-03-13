@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Nov 25 18:13:50 CST 2017
+http\://localhost\:8081/nexus/content/groups/public/.lastUpdated=1511604830772
+http\://localhost\:8081/nexus/content/groups/public/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1511604829052
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact io.takari.m2e.workspace\:org.eclipse.m2e.workspace.cli\:jar\:sources\:0.3.1 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

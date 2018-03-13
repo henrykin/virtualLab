@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Nov 25 18:13:59 CST 2017
+http\://localhost\:8081/nexus/content/groups/public/.lastUpdated=1511604839082
+http\://localhost\:8081/nexus/content/groups/public/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1511604838563
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.eclipse.aether\:aether-util\:jar\:sources\:1.0.2.v20150114 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

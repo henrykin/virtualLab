@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 09 10:41:58 CST 2018
+@default-public-http\://localhost\:8081/nexus/content/groups/public/.lastUpdated=1520563317933
+https\://repo.maven.apache.org/maven2/.lastUpdated=1520563318308
+http\://localhost\:8081/nexus/content/groups/public/.error=Could not transfer artifact commons-collections\:commons-collections\:pom\:3.2 from/to public (http\://localhost\:8081/nexus/content/groups/public/)\: Connect to localhost\:8081 [localhost/127.0.0.1, localhost/0\:0\:0\:0\:0\:0\:0\:1] failed\: Connection refused
